@@ -11,7 +11,7 @@ Texto normal
 2. lista numerada 2
 3. lista numerada 3
 
-**negrita**
+**negrita hola**
 
 *italica*
 
@@ -23,3 +23,5 @@ print("Hola mundo")
 [enlace](https://www.google.com)
 
 ![imagen](https://www.google.com)
+
+hola que tal
